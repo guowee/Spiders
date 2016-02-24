@@ -22,6 +22,7 @@ LOG_LEVEL = 'INFO'
 
 DOWNLOAD_HANDLERS = {'S3': None,}
 
+
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'itrecruit (+http://www.yourdomain.com)'
 
